@@ -13,4 +13,4 @@
 [KURL.US](https://KURL.US) 基于 PHP、SQLite 进行开发，您只需要修改 `config.php` 的相关配置并把 inc 目录权限设置为可读写即可。对于 `Nginx` 用户，则还需把 `nginx.txt` 里面的内容添加到 Nginx 的配置文件里。
 
 ## 鸣谢
-[KURL.US](https://KURL.US) 项目 Fork 自 [CRZ.im](https://CRZ.im) ，并遵循 MIT 协议。
+[KURL.US](https://KURL.US) 项目 Fork 自 [CRZ.im](https://github.com/Caringor/CRZ.im/) ，并遵循 MIT 协议。
