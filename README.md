@@ -5,6 +5,9 @@
 ## 概述
 [KURL.US](https://KURL.US) 是一个网址缩短服务的网站，这是它的源代码。
 
+## 修改
+
+在原来的基础上增加自适应移动端,随机ACG背景
 
 ## 安装
 [KURL.US](https://KURL.US) 基于 PHP、SQLite 进行开发，您只需要修改 `config.php` 的相关配置并把 inc 目录权限设置为可读写即可。对于 `Nginx` 用户，则还需把 `nginx.txt` 里面的内容添加到 Nginx 的配置文件里。
